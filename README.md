@@ -8,7 +8,7 @@ An open-source urban planning and satellite imagery analysis platform that combi
 - [Overview](#overview)
 - [Features](#features)
 - [Quick Start](#quick-start)
-- [Openstreet integration](#Openstreet integration)
+- Openstreet integration
 
 ## Overview
 
