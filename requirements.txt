@@ -1,0 +1,42 @@
+# Core data science and geospatial libraries
+pandas>=1.5.0
+numpy>=1.21.0
+geopandas>=0.13.0
+shapely>=2.0.0
+fiona>=1.8.0
+pyproj>=3.4.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+folium>=0.14.0
+contextily>=1.3.0
+
+# Jupyter and interactive widgets
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+
+# AI and ML libraries
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.20.0
+scikit-learn>=1.2.0
+Pillow>=9.0.0
+opencv-python>=4.7.0
+
+# Web and API libraries
+requests>=2.28.0
+python-dotenv>=0.19.0
+
+# Database and storage
+sqlalchemy>=1.4.0
+
+# Optional: Additional ML/AI libraries
+# huggingface-hub>=0.15.0
+# accelerate>=0.20.0
+
+# Development and testing
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
