@@ -2,7 +2,7 @@
 
 **AI-powered spatial intelligence for urban planning.**
 
-UrbanPulse is an open-source platform that combines computer-vision models with OpenStreetMap data to turn satellite imagery into actionable urban insight — automated image analysis, ground-truth validation, change detection, and planning-ready reports, with no expensive commercial APIs or specialized GIS software required.
+UrbanPulse is an open-source platform that combines computer vision models with OpenStreetMap data to turn satellite imagery into actionable resource allocation for urban insights — automated image analysis, ground-truth validation, change detection, and planning-ready reports, with no expensive commercial APIs or specialized GIS software required.
 
 ---
 
